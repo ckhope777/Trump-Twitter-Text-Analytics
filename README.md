@@ -53,5 +53,12 @@ Additional features were engineered such as year, month, day, and hour for time-
 - Insights into how Trump used Twitter as a political tool and a means of direct communication.
 - Preprocessed dataset is now structured for further ML applications (e.g., topic modeling, deeper sentiment classification).
 
-
-
+## Tech Stack ##
+ - python
+ - libraries used:
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - wordcloud
+    - nltk
